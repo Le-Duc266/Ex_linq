@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Anonymus\Anonymus\bin\Debug\Anonymus.exe.config
+C:\Users\Admin\source\repos\Anonymus\Anonymus\bin\Debug\Anonymus.exe
+C:\Users\Admin\source\repos\Anonymus\Anonymus\bin\Debug\Anonymus.pdb
+C:\Users\Admin\source\repos\Anonymus\Anonymus\obj\Debug\Anonymus.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Anonymus\Anonymus\obj\Debug\Anonymus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Anonymus\Anonymus\obj\Debug\Anonymus.exe
+C:\Users\Admin\source\repos\Anonymus\Anonymus\obj\Debug\Anonymus.pdb
